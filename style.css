@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+
+body {
+    background-color: rgb(77, 210, 77);
+}
+
+#root {
+display: flex;
+text-align: center;
+justify-content: space-between;
+}
